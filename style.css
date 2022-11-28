@@ -91,30 +91,6 @@ body {
   max-width: 90%;
 }
 
-/* .content__title {
-	font-family: 'Vidaloka', serif;
-	font-size: 10vw;
-	font-weight: normal;
-	color: var(--color-title);
-	text-align: center;
-	margin: 0;
-	pointer-events: none;
-	line-height: 1;
-	color: seashell;
-}
-
-.content__subtitle {
-	font-size: 1.25em;
-	color: var(--color-subtitle);
-	padding: 0 0.75em;
-	margin: 0;
-	letter-spacing: 0.5em;
-	text-indent: 0.5em;
-	font-weight: bold;
-	text-transform: uppercase;
-	position: relative;
-	color: seashell;
-} */
 
 
 .titletext h1 {
@@ -238,7 +214,7 @@ p a:hover::after {
 }
 
 .navbar {
-  margin-left: 65%;
+  padding-left: 65%;
   font-family: 'Syncopate', sans-serif;
   overflow-y: hidden;
   overflow-x: auto;
