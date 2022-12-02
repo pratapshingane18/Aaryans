@@ -213,8 +213,9 @@ p a:hover::after {
   transition: 0.2s;
 }
 
+
 .navbar {
-  padding-left: 35%;
+  padding-left: 10%;
   font-family: 'Syncopate', sans-serif;
   overflow-y: hidden;
   overflow-x: auto;
