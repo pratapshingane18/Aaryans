@@ -32,7 +32,7 @@ body {
 }
 
 .button {
-  background-color: #4CAF50;
+  background-color: #dc4512;
   /* Green */
   border: none;
   color: white;
@@ -214,7 +214,7 @@ p a:hover::after {
 }
 
 .navbar {
-  padding-left: 65%;
+  padding-left: 35%;
   font-family: 'Syncopate', sans-serif;
   overflow-y: hidden;
   overflow-x: auto;
@@ -334,8 +334,9 @@ li:hover{
 
 .welcome {
   font-family: 'Space Mono', sans-serif;
-  text-shadow: 0px 2px 3px rgba(1, 166, 37, 0.4);
-  color: #02a726;
+  text-shadow: 0px 2px 3px rgba(1, 166, 37, 0.4); 
+  /* color: #02a726; */
+  color: #e20f0c;
   font-size: 2.3em;
   word-spacing: -0.3em;
 }
